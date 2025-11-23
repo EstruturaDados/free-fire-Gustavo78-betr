@@ -82,7 +82,7 @@ void adicionarItem() {
     } else {
         printf("Mochila cheia! Descarte algo primeiro.\n");
     }
-}
+} ,
 
 void listarItens() {
     if (qtdItens == 0) {
